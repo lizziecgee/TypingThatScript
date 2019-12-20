@@ -1,0 +1,3 @@
+# TypingThatScript
+
+Practicing that TypeScript!
